@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Serein207/Serein207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22hello+world%5Cn%22;" alt="Typing SVG" />
   </a>
 </div>
+
+- :smiley: Who am I: a member of NJUPT SAST and the head of the C++ group of 2023
+- 👀 Language: C++ and Rust
+- :mailbox: Contact me: 2075337935(QQ)
+
+![Serein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serein207&show_icons=true&theme=transparent)
