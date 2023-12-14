@@ -8,6 +8,6 @@
 
 - :smiley: Who am I: a member of NJUPT SAST and the head of the C++ group of 2023
 - 👀 Language: C++ and Rust
-- :mailbox: Contact me: 2075337935(QQ)
+- :mailbox: Contact me: ****** guess it!
 
 ![Serein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serein207&show_icons=true&theme=transparent)
