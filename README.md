@@ -7,7 +7,10 @@
 </div>
 
 - :smiley: Who am I: a member of NJUPT SAST and the head of the C++ group of 2023
-- 👀 Language: C++ and Rust
+- 👀 Most used language: C++ and Rust
 - :mailbox: Contact me: ****** guess it!
+- 🌱 Learning: database, distributed, network programming -in development.
 
 ![Serein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serein207&show_icons=true&theme=transparent)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Serein207)](https://github.com/anuraghazra/github-readme-stats)
