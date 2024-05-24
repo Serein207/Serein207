@@ -26,4 +26,7 @@
 ### Organization :telescope:
 
 - [NJUPT SAST](https://github.com/NJUPT-SAST)
-- [NJUPT SAST C++](https://github.com/NJUPT-SAST-Cpp)
+
+### Message Board
+
+![r_1654477_k2k2x](https://github.com/Serein207/Serein207/assets/118594118/3b763f30-57e6-4cf8-8ed2-d5b0d0717542)
