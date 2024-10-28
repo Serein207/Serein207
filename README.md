@@ -17,7 +17,8 @@
 
 - :smiley: Who am I: a member of NJUPT SAST and the head of the C++ group of 2023
 - 👀 Most used language: C++ and Rust
-- 🌱 Learning: database, distributed, network programming -in development.
+- 🌱 Learning: operator system, network programming
+- btw, I use arch.
 
 ![Serein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serein207&show_icons=true&theme=transparent)
 
